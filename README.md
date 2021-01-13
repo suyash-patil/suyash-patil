@@ -18,12 +18,12 @@ Web development | Open Source Contribution
 
 ### My Stats
 
-![Suyash' github stats](https://github-readme-stats.vercel.app/api?username=suyash-patil&count_private=true&show_icons=true&theme=radical)
+![Suyash' github stats](https://github-readme-stats.vercel.app/api?username=suyash-patil&count_private=true&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASH-PATIL&show_icons=true&theme=radical)
 
 
 ### My Most used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASH-PATIL&show_icons=true&theme=radical)
+
 
 
 ### Contact
