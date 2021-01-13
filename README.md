@@ -12,7 +12,14 @@ I am a second year undergraduate student at Ujjain Engineering College.I work on
 
 ### My Stats 
 
-![Suyash' github stats](https://github-readme-stats.vercel.app/api?username=suyash-patil&count_private=true&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASH-PATIL&show_icons=true&theme=radical)
+
+![Suyash' github stats](https://github-readme-stats.vercel.app/api?username=suyash-patil&count_private=true&show_icons=true&theme=radical)
+
+### Most Used Languages
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASH-PATIL&show_icons=true&theme=radical)
+
 
 ### Contact
 
