@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a second year undergraduate student at Ujjain Engineering College.I work on web development projects. I ❤ contributing to open source.
+I am a second year undergraduate student and build things for the web.
 
 ### Technical Skills
 <img src="https://img.shields.io/badge/-React-06ccef?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/-NodeJS-3c873a?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-blue?style=flat&logo=python&logoColor=yellow">
