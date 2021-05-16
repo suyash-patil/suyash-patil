@@ -5,10 +5,10 @@
 I am a second year undergraduate student and build things for the web.
 
 ### Technical Skills
-<img src="https://img.shields.io/badge/-React-06ccef?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/-NodeJS-3c873a?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-blue?style=flat&logo=python&logoColor=yellow">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff"> <img src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=fff"> <img src="https://img.shields.io/badge/-React-06ccef?style=flat&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/-NodeJS-3c873a?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-blue?style=flat&logo=python&logoColor=yellow">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-ffa804?style=flat"> <br />
+<img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=000"> <br />
 
 ### My Stats 
 
